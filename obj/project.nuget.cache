@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UARAFBWJVuqFtJ2OI7k1YH3xjuQX+mE4ngiIk4FI6cRDXNtSv7jBlk+ZR9pNQSnzei+RIyG8+y5JlUqk0QyOxw==",
+  "success": true,
+  "projectFilePath": "/Users/jordanporter/dev/ask/ask.csproj",
+  "expectedPackageFiles": [
+    "/Users/jordanporter/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/jordanporter/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/jordanporter/.nuget/packages/textcopy/6.2.1/textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
