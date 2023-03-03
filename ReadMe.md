@@ -14,8 +14,6 @@ This is a console application written in C# using the dotnet framework. The app 
 
 5. Run the application from the command line with the following command:
 
-Copy code
-
 ```
 dotnet run
 ```
