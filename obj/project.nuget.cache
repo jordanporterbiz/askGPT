@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LP+H00eqYjxdi5RxfR49POFCa8wIZtWS8zI7wf6GnzJKN5wkUCNZg+gdlqFsdi6O4TZXqsV/zd5AxD3S84RYjw==",
+  "dgSpecHash": "l2u6WLXq7SipyhkMwwBtGYijbCNudjvKszCSebYUayMrsMbCFowHkvFO9IvsQe2Pr8jDQMd9+5hr4+HtyS1TmA==",
   "success": true,
   "projectFilePath": "/Users/jordanporter/dev/ask/ask.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,10 @@
     "/Users/jordanporter/.nuget/packages/system.diagnostics.eventlog/7.0.0/system.diagnostics.eventlog.7.0.0.nupkg.sha512",
     "/Users/jordanporter/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/jordanporter/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/jordanporter/.nuget/packages/textcopy/6.2.1/textcopy.6.2.1.nupkg.sha512"
+    "/Users/jordanporter/.nuget/packages/textcopy/6.2.1/textcopy.6.2.1.nupkg.sha512",
+    "/Users/jordanporter/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.3/microsoft.netcore.app.runtime.osx-x64.7.0.3.nupkg.sha512",
+    "/Users/jordanporter/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.3/microsoft.aspnetcore.app.runtime.osx-x64.7.0.3.nupkg.sha512",
+    "/Users/jordanporter/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.3/microsoft.netcore.app.host.osx-x64.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }
