@@ -24,9 +24,9 @@ dotnet run
 
 ## Packages used
 
-Microsoft.Extensions.Hosting: Used for hosting and running the console app.
-TextCopy: Used for easily copying and pasting data in the console app.
-Newtonsoft.Json: Used for deserializing the response data from the OpenAI API.
+- Microsoft.Extensions.Hosting: Used for hosting and running the console app.
+- TextCopy: Used for easily copying and pasting data in the console app.
+- Newtonsoft.Json: Used for deserializing the response data from the OpenAI API.
 
 ## Contributions
 
